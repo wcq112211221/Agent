@@ -1,4 +1,4 @@
-# agentragsys
+# LightRAG
 
 **状态**: 🚧 WIP（进行中 — 用于学习与持续更新）
 
@@ -158,3 +158,4 @@ pydantic
 ## 联系
 
 欢迎一起学习交流
+
