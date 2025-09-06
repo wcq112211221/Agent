@@ -1,4 +1,3 @@
-# tools/echo_tool.py
 from langchain.tools import Tool
 
 def echo(input_text: str):

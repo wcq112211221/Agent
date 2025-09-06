@@ -1,10 +1,9 @@
-# mcp/gptbased.py
 import json
 import os
 from langchain.chat_models import ChatOpenAI
 
 def get_chat_model(
-    api_key: str = "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",
+    api_key: str = " ", # key
     model: str = "gpt-4-0613",
     temperature: float = 0.7
 ):

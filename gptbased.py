@@ -1,4 +1,3 @@
-# main.py
 import streamlit as st
 from mcp.dispatcher import get_agent
 from tools import load_all_tools

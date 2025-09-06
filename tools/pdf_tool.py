@@ -1,4 +1,3 @@
-# tools/pdf_tool.py
 from langchain.tools import Tool
 import pypdf
 from langchain.text_splitter import RecursiveCharacterTextSplitter

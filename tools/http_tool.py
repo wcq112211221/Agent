@@ -1,4 +1,3 @@
-# tools/http_tool.py
 import requests
 from bs4 import BeautifulSoup
 from langchain.tools import Tool
